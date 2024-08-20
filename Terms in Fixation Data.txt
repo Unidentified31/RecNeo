@@ -1,0 +1,4 @@
+FPOGD = The duration of the fixation POG in seconds.
+FPOGID = The fixation POG ID number.
+LPMM = The left pupil diameter in millimeters.
+RPMM = The right pupil diameter in millimeters.
