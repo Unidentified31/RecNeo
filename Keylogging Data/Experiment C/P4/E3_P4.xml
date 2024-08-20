@@ -1,0 +1,766 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LogFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <VersionString>2.1.0.6</VersionString>
+  <startTime>2023-11-07T11:54:02.967528+03:00</startTime>
+  <endTime>2023-11-07T12:02:30.404528+03:00</endTime>
+  <Project>
+    <FileName>C:\Users\phduk\Desktop\TransLog\N_3.project</FileName>
+    <Description>example project description</Description>
+    <versionString />
+    <useSourceText>true</useSourceText>
+    <promptSubjectName>false</promptSubjectName>
+    <useExtendedTranslations>false</useExtendedTranslations>
+    <showTimer>false</showTimer>
+    <maxWindow>false</maxWindow>
+    <offlineGWM>false</offlineGWM>
+    <fullScreen>false</fullScreen>
+    <lockWindows>false</lockWindows>
+    <Plugins>
+      <Key_Logger />
+    </Plugins>
+    <Interface>
+      <Standard>
+        <pluginDependances />
+        <Settings>
+          <TargetBackgroundColor RGB="-1" />
+          <SourceBackgroundColor RGB="-986896" />
+          <lineHeight source="1" target="1" />
+          <SourceText>{\rtf1\fbidis\ansi\ansicpg1252\deff0\nouicompat\deflang2057{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset178 Times New Roman;}{\f2\fnil\fcharset0 Microsoft Sans Serif;}}
+{\*\generator Riched20 10.0.22621}\viewkind4\uc1 
+\pard\ltrpar\widctlpar\sb360\sa120\sl180\slmult1\kerning2\f0\fs96 Zoom will pay $85 million due to user privacy issues and \f1\rtlch\lang1025\par
+\f0\ltrch\lang2057 Zoombombing trends online.\par
+\par
+\par
+
+\pard\ltrpar\sl180\slmult1\kerning0\f2\fs17\par
+}
+</SourceText>
+          <TargetText>{\rtf1\fbidis\ansi\ansicpg1252\deff0\nouicompat\deflang2057{\fonttbl{\f0\fnil\fcharset0 Arial Narrow;}}
+{\*\generator Riched20 10.0.22621}\viewkind4\uc1 
+\pard\ltrpar\widctlpar\sb360\sa120\sl180\slmult1\qr\f0\fs83\par
+}
+</TargetText>
+          <SourceTextUTF8>Zoom will pay $85 million due to user privacy issues and 
+Zoombombing trends online.
+
+
+</SourceTextUTF8>
+          <TargetTextUTF8 />
+          <TranslationWindow X="44" Y="32" Width="1876" Height="1048" Split="360" STO="True" VHO="Horizontal" />
+        </Settings>
+        <Import2006Flag>false</Import2006Flag>
+      </Standard>
+    </Interface>
+  </Project>
+  <Events>
+    <System Time="0" Value="START" />
+    <Mouse Time="796" Cursor="0" Value="Down" />
+    <Mouse Time="937" Cursor="0" Value="Up" />
+    <Key Time="17843" Cursor="0" X="1812" Y="391" Width="65" Height="70" Type="insert" Value="س" />
+    <Key Time="18031" Cursor="1" X="1789" Y="391" Width="59" Height="70" Type="insert" Value="ت" />
+    <Key Time="19484" Cursor="2" X="1796" Y="391" Width="37" Height="70" Type="insert" Value="د" />
+    <Key Time="19718" Cursor="3" X="1764" Y="391" Width="51" Height="70" Type="insert" Value="ق" />
+    <Key Time="20062" Cursor="4" X="1756" Y="391" Width="49" Height="70" Type="insert" Value="ع" />
+    <Key Time="20218" Cursor="5" X="1857" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="21015" Cursor="5" Text=" " X="1857" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="21234" Cursor="4" Text="ع" X="1857" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="21375" Cursor="3" Text="ق" X="1857" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="22093" Cursor="3" X="1753" Y="391" Width="63" Height="70" Type="insert" Value="ف" />
+    <Key Time="22234" Cursor="4" X="1756" Y="391" Width="49" Height="70" Type="insert" Value="ع" />
+    <Key Time="22703" Cursor="5" X="1857" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="23296" Cursor="6" X="1722" Y="391" Width="37" Height="70" Type="insert" Value="م" />
+    <Key Time="23468" Cursor="7" X="1690" Y="391" Width="48" Height="70" Type="insert" Value="ن" />
+    <Key Time="23703" Cursor="8" X="1646" Y="391" Width="81" Height="70" Type="insert" Value="ص" />
+    <Key Time="24531" Cursor="9" X="1638" Y="391" Width="34" Height="70" Type="insert" Value="ة" />
+    <Key Time="24703" Cursor="10" X="1857" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="26000" Cursor="11" X="1578" Y="391" Width="65" Height="70" Type="insert" Value="س" />
+    <Key Time="26703" Cursor="11" Text="س" X="1857" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="27406" Cursor="11" X="1596" Y="391" Width="46" Height="70" Type="insert" Value="ز" />
+    <Key Time="27593" Cursor="12" X="1572" Y="391" Width="43" Height="70" Type="insert" Value="و" />
+    <Key Time="27750" Cursor="13" X="1553" Y="391" Width="37" Height="70" Type="insert" Value="م" />
+    <Key Time="27875" Cursor="14" X="1857" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="29937" Cursor="15" X="1519" Y="391" Width="37" Height="70" Type="insert" Value="م" />
+    <Key Time="30078" Cursor="16" X="1477" Y="391" Width="59" Height="70" Type="insert" Value="ب" />
+    <Key Time="30375" Cursor="17" X="1475" Y="391" Width="47" Height="70" Type="insert" Value="ل" />
+    <Key Time="32546" Cursor="18" X="1467" Y="391" Width="49" Height="70" Type="insert" Value="غ" />
+    <Key Time="32890" Cursor="19" X="1457" Y="391" Width="30" Height="70" Type="insert" Value="ا" />
+    <Key Time="46890" Cursor="20" X="1857" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="47578" Cursor="21" X="1403" Y="391" Width="59" Height="70" Type="insert" Value="ث" />
+    <Key Time="47953" Cursor="22" X="1410" Y="391" Width="37" Height="70" Type="insert" Value="م" />
+    <Key Time="48125" Cursor="23" X="1378" Y="391" Width="48" Height="70" Type="insert" Value="ن" />
+    <Key Time="48328" Cursor="24" X="1373" Y="391" Width="34" Height="70" Type="insert" Value="ه" />
+    <Key Time="49187" Cursor="25" X="1857" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="52140" Cursor="26" X="1826" Y="391" Width="50" Height="69" Type="insert" Value="5" />
+    <Key Time="52687" Cursor="27" X="1826" Y="391" Width="50" Height="69" Type="insert" Value="8" />
+    <Key Time="53562" Cursor="27" Text="8" X="1857" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="53609" Cursor="26" Text="5" X="1857" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="53812" Cursor="25" Text=" " X="1857" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="54671" Cursor="25" X="1857" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="55015" Cursor="26" X="1826" Y="391" Width="50" Height="69" Type="insert" Value="8" />
+    <Key Time="55468" Cursor="27" X="1826" Y="391" Width="50" Height="69" Type="insert" Value="5" />
+    <Key Time="55656" Cursor="28" X="1857" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="56453" Cursor="29" X="1838" Y="391" Width="37" Height="70" Type="insert" Value="د" />
+    <Key Time="57015" Cursor="29" Text="د" X="1857" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="57218" Cursor="28" Text=" " X="1857" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="57515" Cursor="27" Text="5" X="1857" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="57843" Cursor="26" Text="8" X="1857" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="64187" Cursor="26" Type="navi" Value="[Left]" />
+    <Key Time="64703" Cursor="25" Type="navi" Value="[Left]" />
+    <Key Time="64734" Cursor="24" Type="navi" Value="[Left]" />
+    <Key Time="64765" Cursor="23" Type="navi" Value="[Left]" />
+    <Key Time="64812" Cursor="22" Type="navi" Value="[Left]" />
+    <Key Time="64843" Cursor="21" Type="navi" Value="[Left]" />
+    <Key Time="64875" Cursor="20" Type="navi" Value="[Left]" />
+    <Key Time="64906" Cursor="19" Type="navi" Value="[Left]" />
+    <Key Time="64937" Cursor="18" Type="navi" Value="[Left]" />
+    <Key Time="64968" Cursor="17" Type="navi" Value="[Left]" />
+    <Key Time="65000" Cursor="16" Type="navi" Value="[Left]" />
+    <Key Time="65031" Cursor="15" Type="navi" Value="[Left]" />
+    <Key Time="65062" Cursor="14" Type="navi" Value="[Left]" />
+    <Key Time="65109" Cursor="13" Type="navi" Value="[Left]" />
+    <Key Time="65140" Cursor="12" Type="navi" Value="[Left]" />
+    <Key Time="65171" Cursor="11" Type="navi" Value="[Left]" />
+    <Key Time="65203" Cursor="10" Type="navi" Value="[Left]" />
+    <Key Time="65234" Cursor="9" Type="navi" Value="[Left]" />
+    <Key Time="65265" Cursor="8" Type="navi" Value="[Left]" />
+    <Key Time="65296" Cursor="7" Type="navi" Value="[Left]" />
+    <Key Time="65328" Cursor="6" Type="navi" Value="[Left]" />
+    <Key Time="65359" Cursor="5" Type="navi" Value="[Left]" />
+    <Key Time="65390" Cursor="4" Type="navi" Value="[Left]" />
+    <Key Time="65437" Cursor="3" Type="navi" Value="[Left]" />
+    <Key Time="65468" Cursor="2" Type="navi" Value="[Left]" />
+    <Key Time="65500" Cursor="1" Type="navi" Value="[Left]" />
+    <Key Time="65531" Cursor="0" Type="navi" Value="[Left]" />
+    <Key Time="65562" Cursor="0" Type="navi" Value="[Left]" />
+    <Key Time="65593" Cursor="0" Type="navi" Value="[Left]" />
+    <Key Time="65625" Cursor="0" Type="navi" Value="[Left]" />
+    <Key Time="68156" Cursor="0" X="1342" Y="391" Width="50" Height="69" Type="insert" Value="8" />
+    <Key Time="69406" Cursor="0" Text="8" X="1373" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="69578" Cursor="0" X="1358" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="70781" Cursor="1" X="1342" Y="391" Width="50" Height="69" Type="insert" Value="8" />
+    <Key Time="71890" Cursor="2" X="1342" Y="391" Width="50" Height="69" Type="insert" Value="5" />
+    <Key Time="73250" Cursor="3" Type="navi" Value="[Right]" />
+    <Key Time="73765" Cursor="4" Type="navi" Value="[Right]" />
+    <Key Time="73796" Cursor="5" Type="navi" Value="[Right]" />
+    <Key Time="73843" Cursor="6" Type="navi" Value="[Right]" />
+    <Key Time="73875" Cursor="7" Type="navi" Value="[Right]" />
+    <Key Time="73906" Cursor="8" Type="navi" Value="[Right]" />
+    <Key Time="73937" Cursor="9" Type="navi" Value="[Right]" />
+    <Key Time="73968" Cursor="10" Type="navi" Value="[Right]" />
+    <Key Time="74000" Cursor="11" Type="navi" Value="[Right]" />
+    <Key Time="74031" Cursor="12" Type="navi" Value="[Right]" />
+    <Key Time="74062" Cursor="13" Type="navi" Value="[Right]" />
+    <Key Time="74093" Cursor="14" Type="navi" Value="[Right]" />
+    <Key Time="74125" Cursor="15" Type="navi" Value="[Right]" />
+    <Key Time="74171" Cursor="16" Type="navi" Value="[Right]" />
+    <Key Time="74203" Cursor="17" Type="navi" Value="[Right]" />
+    <Key Time="74234" Cursor="18" Type="navi" Value="[Right]" />
+    <Key Time="74265" Cursor="19" Type="navi" Value="[Right]" />
+    <Key Time="74296" Cursor="20" Type="navi" Value="[Right]" />
+    <Key Time="74328" Cursor="21" Type="navi" Value="[Right]" />
+    <Key Time="74359" Cursor="22" Type="navi" Value="[Right]" />
+    <Key Time="74390" Cursor="23" Type="navi" Value="[Right]" />
+    <Key Time="74421" Cursor="24" Type="navi" Value="[Right]" />
+    <Key Time="74453" Cursor="25" Type="navi" Value="[Right]" />
+    <Key Time="74484" Cursor="26" Type="navi" Value="[Right]" />
+    <Key Time="74531" Cursor="27" Type="navi" Value="[Right]" />
+    <Key Time="74562" Cursor="28" Type="navi" Value="[Right]" />
+    <Key Time="74593" Cursor="29" Type="navi" Value="[Right]" />
+    <Key Time="74625" Cursor="29" Type="navi" Value="[Right]" />
+    <Key Time="74656" Cursor="29" Type="navi" Value="[Right]" />
+    <Key Time="74687" Cursor="29" Type="navi" Value="[Right]" />
+    <Key Time="75484" Cursor="29" X="1857" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="76312" Cursor="30" X="1324" Y="391" Width="37" Height="70" Type="insert" Value="د" />
+    <Key Time="76968" Cursor="30" Text="د" X="1857" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="78312" Cursor="30" Type="navi" Value="[Right]" />
+    <Key Time="79031" Cursor="30" Type="navi" Value="[Left]" />
+    <Key Time="79546" Cursor="29" Type="navi" Value="[Left]" />
+    <Key Time="79578" Cursor="28" Type="navi" Value="[Left]" />
+    <Key Time="79609" Cursor="27" Type="navi" Value="[Left]" />
+    <Key Time="79640" Cursor="26" Type="navi" Value="[Left]" />
+    <Key Time="79671" Cursor="25" Type="navi" Value="[Left]" />
+    <Key Time="79703" Cursor="24" Type="navi" Value="[Left]" />
+    <Key Time="79734" Cursor="23" Type="navi" Value="[Left]" />
+    <Key Time="79765" Cursor="22" Type="navi" Value="[Left]" />
+    <Key Time="79796" Cursor="21" Type="navi" Value="[Left]" />
+    <Key Time="79828" Cursor="20" Type="navi" Value="[Left]" />
+    <Key Time="79859" Cursor="19" Type="navi" Value="[Left]" />
+    <Key Time="80171" Cursor="18" Type="navi" Value="[Left]" />
+    <Key Time="80328" Cursor="17" Type="navi" Value="[Left]" />
+    <Key Time="80484" Cursor="16" Type="navi" Value="[Left]" />
+    <Key Time="80640" Cursor="15" Type="navi" Value="[Left]" />
+    <Key Time="80796" Cursor="14" Type="navi" Value="[Left]" />
+    <Key Time="80953" Cursor="13" Type="navi" Value="[Left]" />
+    <Key Time="81125" Cursor="12" Type="navi" Value="[Left]" />
+    <Key Time="81281" Cursor="11" Type="navi" Value="[Left]" />
+    <Key Time="81468" Cursor="10" Type="navi" Value="[Left]" />
+    <Key Time="81625" Cursor="9" Type="navi" Value="[Left]" />
+    <Key Time="81812" Cursor="8" Type="navi" Value="[Left]" />
+    <Key Time="82015" Cursor="7" Type="navi" Value="[Left]" />
+    <Key Time="82265" Cursor="6" Type="navi" Value="[Left]" />
+    <Key Time="82500" Cursor="5" Type="navi" Value="[Left]" />
+    <Key Time="82718" Cursor="4" Type="navi" Value="[Left]" />
+    <Key Time="83750" Cursor="3" X="1838" Y="391" Width="37" Height="70" Type="insert" Value="د" />
+    <Key Time="84609" Cursor="3" Text="د" X="1828" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="85593" Cursor="3" Type="navi" Value="[Right]" />
+    <Key Time="85781" Cursor="4" Type="navi" Value="[Right]" />
+    <Key Time="85937" Cursor="5" Type="navi" Value="[Right]" />
+    <Key Time="86093" Cursor="6" Type="navi" Value="[Right]" />
+    <Key Time="86609" Cursor="7" Type="navi" Value="[Right]" />
+    <Key Time="86640" Cursor="8" Type="navi" Value="[Right]" />
+    <Key Time="86687" Cursor="9" Type="navi" Value="[Right]" />
+    <Key Time="86718" Cursor="10" Type="navi" Value="[Right]" />
+    <Key Time="86750" Cursor="11" Type="navi" Value="[Right]" />
+    <Key Time="86781" Cursor="12" Type="navi" Value="[Right]" />
+    <Key Time="86812" Cursor="13" Type="navi" Value="[Right]" />
+    <Key Time="86843" Cursor="14" Type="navi" Value="[Right]" />
+    <Key Time="86875" Cursor="15" Type="navi" Value="[Right]" />
+    <Key Time="86906" Cursor="16" Type="navi" Value="[Right]" />
+    <Key Time="86937" Cursor="17" Type="navi" Value="[Right]" />
+    <Key Time="86968" Cursor="18" Type="navi" Value="[Right]" />
+    <Key Time="87000" Cursor="19" Type="navi" Value="[Right]" />
+    <Key Time="87281" Cursor="20" Type="navi" Value="[Right]" />
+    <Key Time="87484" Cursor="21" Type="navi" Value="[Right]" />
+    <Key Time="87640" Cursor="22" Type="navi" Value="[Right]" />
+    <Key Time="87796" Cursor="23" Type="navi" Value="[Right]" />
+    <Key Time="87953" Cursor="24" Type="navi" Value="[Right]" />
+    <Key Time="88109" Cursor="25" Type="navi" Value="[Right]" />
+    <Key Time="88312" Cursor="26" Type="navi" Value="[Right]" />
+    <Key Time="88484" Cursor="27" Type="navi" Value="[Right]" />
+    <Key Time="88718" Cursor="28" Type="navi" Value="[Right]" />
+    <Key Time="88953" Cursor="29" Type="navi" Value="[Right]" />
+    <Mouse Time="92625" Cursor="0" Value="Down" />
+    <Mouse Time="92718" Cursor="0" Value="Up" />
+    <Key Time="93828" Cursor="0" X="1277" Y="391" Width="37" Height="70" Type="insert" Value="د" />
+    <Key Time="96812" Cursor="1" Type="navi" Value="[Right]" />
+    <Key Time="97140" Cursor="2" Type="navi" Value="[Right]" />
+    <Key Time="97343" Cursor="3" Type="navi" Value="[Right]" />
+    <Key Time="98046" Cursor="4" X="1358" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="98812" Cursor="5" Type="navi" Value="[Left]" />
+    <Key Time="99000" Cursor="4" Type="navi" Value="[Left]" />
+    <Key Time="99187" Cursor="3" Type="navi" Value="[Left]" />
+    <Key Time="99359" Cursor="2" Type="navi" Value="[Left]" />
+    <Key Time="100375" Cursor="1" X="1238" Y="391" Width="43" Height="70" Type="insert" Value="و" />
+    <Key Time="100640" Cursor="2" X="1210" Y="391" Width="47" Height="70" Type="insert" Value="ل" />
+    <Key Time="100906" Cursor="3" X="1193" Y="391" Width="30" Height="70" Type="insert" Value="ا" />
+    <Key Time="101218" Cursor="4" X="1181" Y="391" Width="46" Height="70" Type="insert" Value="ر" />
+    <Key Time="101390" Cursor="5" X="1170" Y="391" Width="30" Height="70" Type="insert" Value="ا" />
+    <Key Time="101734" Cursor="7" X="1281" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="102765" Cursor="7" X="1125" Y="391" Width="49" Height="70" Type="insert" Value="غ" />
+    <Key Time="104093" Cursor="7" Text="غ" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="127156" Cursor="7" X="1127" Y="391" Width="47" Height="70" Type="insert" Value="ل" />
+    <Key Time="127468" Cursor="8" X="1125" Y="391" Width="37" Height="70" Type="insert" Value="م" />
+    <Key Time="127921" Cursor="9" X="1077" Y="391" Width="65" Height="70" Type="insert" Value="ش" />
+    <Key Time="128093" Cursor="10" X="1080" Y="391" Width="30" Height="70" Type="insert" Value="ا" />
+    <Key Time="128765" Cursor="11" X="1047" Y="391" Width="52" Height="70" Type="insert" Value="ك" />
+    <Key Time="128984" Cursor="12" X="1031" Y="391" Width="46" Height="70" Type="insert" Value="ر" />
+    <Key Time="130015" Cursor="12" Text="ر" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="130359" Cursor="12" X="1030" Y="391" Width="47" Height="70" Type="insert" Value="ل" />
+    <Key Time="130578" Cursor="14" X="1281" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="131906" Cursor="14" X="1004" Y="391" Width="30" Height="70" Type="insert" Value="ا" />
+    <Key Time="135953" Cursor="14" Text="ا" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="136953" Cursor="14" X="984" Y="391" Width="50" Height="70" Type="insert" Value="خ" />
+    <Key Time="137125" Cursor="15" X="926" Y="391" Width="81" Height="70" Type="insert" Value="ص" />
+    <Key Time="137484" Cursor="16" X="915" Y="391" Width="43" Height="70" Type="insert" Value="و" />
+    <Key Time="137890" Cursor="17" X="855" Y="391" Width="81" Height="70" Type="insert" Value="ص" />
+    <Key Time="138531" Cursor="18" X="836" Y="391" Width="54" Height="70" Type="insert" Value="ي" />
+    <Key Time="138843" Cursor="19" X="834" Y="391" Width="34" Height="70" Type="insert" Value="ة" />
+    <Key Time="138937" Cursor="21" X="1281" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="139234" Cursor="21" X="808" Y="391" Width="30" Height="70" Type="insert" Value="ا" />
+    <Key Time="139515" Cursor="22" X="780" Y="391" Width="47" Height="70" Type="insert" Value="ل" />
+    <Key Time="140421" Cursor="23" X="778" Y="391" Width="37" Height="70" Type="insert" Value="م" />
+    <Key Time="140859" Cursor="24" X="730" Y="391" Width="65" Height="70" Type="insert" Value="س" />
+    <Key Time="142093" Cursor="25" X="707" Y="391" Width="59" Height="70" Type="insert" Value="ت" />
+    <Key Time="145437" Cursor="25" Text="ت" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="145703" Cursor="24" Text="س" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="145937" Cursor="23" Text="م" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="149734" Cursor="23" X="778" Y="391" Width="37" Height="70" Type="insert" Value="م" />
+    <Key Time="149906" Cursor="24" X="730" Y="391" Width="65" Height="70" Type="insert" Value="س" />
+    <Key Time="151500" Cursor="25" X="707" Y="391" Width="59" Height="70" Type="insert" Value="ت" />
+    <Key Time="152343" Cursor="26" X="704" Y="391" Width="50" Height="70" Type="insert" Value="خ" />
+    <Key Time="153156" Cursor="27" X="685" Y="391" Width="37" Height="70" Type="insert" Value="د" />
+    <Key Time="153640" Cursor="28" X="661" Y="391" Width="43" Height="70" Type="insert" Value="و" />
+    <Key Time="153890" Cursor="29" X="642" Y="391" Width="37" Height="70" Type="insert" Value="م" />
+    <Key Time="154125" Cursor="31" X="1281" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="155421" Cursor="31" Text=" " X="1296" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="155609" Cursor="29" Text="م" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="156156" Cursor="28" Text="و" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="157062" Cursor="28" X="666" Y="391" Width="37" Height="70" Type="insert" Value="م" />
+    <Key Time="157265" Cursor="30" X="1281" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="162281" Cursor="30" X="627" Y="391" Width="43" Height="70" Type="insert" Value="و" />
+    <Key Time="165375" Cursor="32" X="1281" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="166312" Cursor="32" X="567" Y="391" Width="65" Height="70" Type="insert" Value="ش" />
+    <Key Time="167796" Cursor="33" X="570" Y="391" Width="30" Height="70" Type="insert" Value="ا" />
+    <Key Time="172375" Cursor="34" X="547" Y="391" Width="41" Height="70" Type="insert" Value="ء" />
+    <Key Time="173765" Cursor="34" Text="ء" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="174859" Cursor="34" X="535" Y="391" Width="54" Height="70" Type="insert" Value="ئ" />
+    <Key Time="175390" Cursor="35" X="532" Y="391" Width="49" Height="70" Type="insert" Value="ع" />
+    <Key Time="175640" Cursor="36" X="514" Y="391" Width="34" Height="70" Type="insert" Value="ة" />
+    <Key Time="175875" Cursor="38" X="1281" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="181765" Cursor="38" X="488" Y="391" Width="30" Height="70" Type="insert" Value="ا" />
+    <Key Time="182296" Cursor="39" X="457" Y="391" Width="50" Height="70" Type="insert" Value="خ" />
+    <Key Time="182671" Cursor="40" X="420" Y="391" Width="59" Height="70" Type="insert" Value="ت" />
+    <Key Time="182968" Cursor="41" X="419" Y="391" Width="46" Height="70" Type="insert" Value="ر" />
+    <Key Time="183156" Cursor="42" X="408" Y="391" Width="30" Height="70" Type="insert" Value="ا" />
+    <Key Time="183343" Cursor="43" X="376" Y="391" Width="51" Height="70" Type="insert" Value="ق" />
+    <Key Time="183531" Cursor="45" X="1281" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="183875" Cursor="45" X="350" Y="391" Width="30" Height="70" Type="insert" Value="ا" />
+    <Key Time="184140" Cursor="46" X="322" Y="391" Width="47" Height="70" Type="insert" Value="ل" />
+    <Key Time="184296" Cursor="47" X="311" Y="391" Width="47" Height="70" Type="insert" Value="ل" />
+    <Key Time="184593" Cursor="48" X="296" Y="391" Width="51" Height="70" Type="insert" Value="ق" />
+    <Key Time="184953" Cursor="49" X="301" Y="391" Width="30" Height="70" Type="insert" Value="ا" />
+    <Key Time="186218" Cursor="50" X="266" Y="391" Width="54" Height="70" Type="insert" Value="ئ" />
+    <Key Time="186593" Cursor="51" X="275" Y="391" Width="30" Height="70" Type="insert" Value="ا" />
+    <Key Time="187578" Cursor="52" X="236" Y="391" Width="59" Height="70" Type="insert" Value="ت" />
+    <Key Time="188218" Cursor="54" X="1281" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="195031" Cursor="54" X="210" Y="391" Width="30" Height="70" Type="insert" Value="ا" />
+    <Key Time="196359" Cursor="54" Text="ا" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="212156" Cursor="54" X="191" Y="391" Width="49" Height="70" Type="insert" Value="ع" />
+    <Key Time="212578" Cursor="55" X="153" Y="391" Width="59" Height="70" Type="insert" Value="ب" />
+    <Key Time="213203" Cursor="56" X="152" Y="391" Width="46" Height="70" Type="insert" Value="ر" />
+    <Key Time="214218" Cursor="58" X="1281" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="214875" Cursor="58" X="126" Y="391" Width="30" Height="70" Type="insert" Value="ا" />
+    <Key Time="215109" Cursor="59" X="98" Y="391" Width="47" Height="70" Type="insert" Value="ل" />
+    <Key Time="215265" Cursor="60" X="70" Y="391" Width="65" Height="70" Type="insert" Value="ش" />
+    <Key Time="215937" Cursor="61" X="47" Y="391" Width="59" Height="70" Type="insert" Value="ب" />
+    <Key Time="216218" Cursor="62" X="40" Y="391" Width="52" Height="70" Type="insert" Value="ك" />
+    <Key Time="218390" Cursor="62" Text="ك" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="218640" Cursor="61" Text="ب" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="218890" Cursor="60" Text="ش" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="219109" Cursor="59" Text="ل" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="219656" Cursor="58" Text="ا" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="222625" Cursor="58" Text=" " X="1296" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="222921" Cursor="56" Text="ر" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="223609" Cursor="55" Text="ب" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="224015" Cursor="54" Text="ع" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="246062" Cursor="54" X="210" Y="391" Width="30" Height="70" Type="insert" Value="ا" />
+    <Key Time="247734" Cursor="54" Text="ا" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="268953" Cursor="54" X="191" Y="391" Width="49" Height="70" Type="insert" Value="ع" />
+    <Key Time="269156" Cursor="55" X="153" Y="391" Width="59" Height="70" Type="insert" Value="ب" />
+    <Key Time="269359" Cursor="56" X="152" Y="391" Width="46" Height="70" Type="insert" Value="ر" />
+    <Key Time="269609" Cursor="58" X="1281" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="270328" Cursor="58" X="126" Y="391" Width="30" Height="70" Type="insert" Value="ا" />
+    <Key Time="270546" Cursor="59" X="98" Y="391" Width="47" Height="70" Type="insert" Value="ل" />
+    <Key Time="270796" Cursor="60" X="81" Y="391" Width="30" Height="70" Type="insert" Value="ا" />
+    <Key Time="270984" Cursor="61" X="67" Y="391" Width="48" Height="70" Type="insert" Value="ن" />
+    <Key Time="271187" Cursor="62" X="44" Y="391" Width="59" Height="70" Type="insert" Value="ت" />
+    <Key Time="271984" Cursor="63" X="43" Y="391" Width="46" Height="70" Type="insert" Value="ر" />
+    <Key Time="272468" Cursor="64" X="14" Y="391" Width="48" Height="70" Type="insert" Value="ن" />
+    <Key Time="272718" Cursor="65" X="60" Y="391" Width="59" Height="70" Type="insert" Value="ت" />
+    <Key Time="275390" Cursor="65" Text="ت" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="275828" Cursor="64" Text="ن" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="276062" Cursor="63" Text="ر" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="276250" Cursor="62" Text="ت" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="276453" Cursor="61" Text="ن" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="276609" Cursor="60" Text="ا" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="276796" Cursor="59" Text="ل" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="276968" Cursor="58" Text="ا" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="277140" Cursor="58" Text=" " X="1296" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="277359" Cursor="56" Text="ر" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="277640" Cursor="55" Text="ب" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="277875" Cursor="54" Text="ع" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="293562" Cursor="54" Text=" " X="1296" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="294390" Cursor="52" Text="ت" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="294671" Cursor="51" Text="ا" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="294890" Cursor="50" Text="ئ" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="295390" Cursor="49" Text="ا" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="295421" Cursor="48" Text="ق" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="295468" Cursor="47" Text="ل" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="295500" Cursor="46" Text="ل" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="295531" Cursor="45" Text="ا" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="295562" Cursor="45" Text=" " X="1296" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="295781" Cursor="43" Text="ق" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="296000" Cursor="42" Text="ا" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="296171" Cursor="41" Text="ر" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="296375" Cursor="40" Text="ت" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="296562" Cursor="39" Text="خ" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="297796" Cursor="39" X="457" Y="391" Width="50" Height="70" Type="insert" Value="خ" />
+    <Key Time="298281" Cursor="40" X="420" Y="391" Width="59" Height="70" Type="insert" Value="ت" />
+    <Key Time="298468" Cursor="41" X="419" Y="391" Width="46" Height="70" Type="insert" Value="ر" />
+    <Key Time="298953" Cursor="42" X="408" Y="391" Width="30" Height="70" Type="insert" Value="ا" />
+    <Key Time="300250" Cursor="43" X="376" Y="391" Width="51" Height="70" Type="insert" Value="ق" />
+    <Key Time="300578" Cursor="44" X="380" Y="391" Width="30" Height="70" Type="insert" Value="ا" />
+    <Key Time="300937" Cursor="45" X="341" Y="391" Width="59" Height="70" Type="insert" Value="ت" />
+    <Key Time="301578" Cursor="47" X="1281" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="302000" Cursor="47" X="315" Y="391" Width="30" Height="70" Type="insert" Value="ا" />
+    <Key Time="302375" Cursor="48" X="287" Y="391" Width="47" Height="70" Type="insert" Value="ل" />
+    <Key Time="305843" Cursor="49" X="276" Y="391" Width="47" Height="70" Type="insert" Value="ل" />
+    <Key Time="306046" Cursor="50" X="250" Y="391" Width="63" Height="70" Type="insert" Value="ف" />
+    <Key Time="306593" Cursor="50" Text="ف" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="306750" Cursor="50" X="261" Y="391" Width="51" Height="70" Type="insert" Value="ق" />
+    <Key Time="307062" Cursor="51" X="266" Y="391" Width="30" Height="70" Type="insert" Value="ا" />
+    <Key Time="307640" Cursor="52" X="231" Y="391" Width="54" Height="70" Type="insert" Value="ئ" />
+    <Key Time="307812" Cursor="53" X="240" Y="391" Width="30" Height="70" Type="insert" Value="ا" />
+    <Key Time="308015" Cursor="54" X="201" Y="391" Width="59" Height="70" Type="insert" Value="ت" />
+    <Key Time="308171" Cursor="56" X="1281" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="308718" Cursor="56" X="156" Y="391" Width="49" Height="70" Type="insert" Value="ع" />
+    <Key Time="308859" Cursor="57" X="118" Y="391" Width="59" Height="70" Type="insert" Value="ب" />
+    <Key Time="309125" Cursor="58" X="117" Y="391" Width="46" Height="70" Type="insert" Value="ر" />
+    <Key Time="309250" Cursor="60" X="1281" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="309609" Cursor="60" X="91" Y="391" Width="30" Height="70" Type="insert" Value="ا" />
+    <Key Time="309953" Cursor="61" X="63" Y="391" Width="47" Height="70" Type="insert" Value="ل" />
+    <Key Time="310078" Cursor="62" X="35" Y="391" Width="65" Height="70" Type="insert" Value="ش" />
+    <Key Time="310390" Cursor="63" X="19" Y="391" Width="54" Height="70" Type="insert" Value="ي" />
+    <Key Time="310968" Cursor="63" Text="ي" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="311156" Cursor="63" X="12" Y="391" Width="59" Height="70" Type="insert" Value="ب" />
+    <Key Time="313437" Cursor="63" Text="ب" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="313640" Cursor="62" Text="ش" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="313828" Cursor="61" Text="ل" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="314250" Cursor="60" Text="ا" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="314421" Cursor="60" Text=" " X="1296" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="314718" Cursor="58" Text="ر" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="315156" Cursor="57" Text="ب" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="315390" Cursor="56" Text="ع" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="325078" Cursor="56" X="175" Y="391" Width="30" Height="70" Type="insert" Value="ا" />
+    <Key Time="327578" Cursor="56" Text="ا" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="332687" Cursor="56" Text=" " X="1296" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="332906" Cursor="54" Text="ت" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="333078" Cursor="53" Text="ا" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="333265" Cursor="52" Text="ئ" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="333453" Cursor="51" Text="ا" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="333625" Cursor="50" Text="ق" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="333812" Cursor="49" Text="ل" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="333984" Cursor="48" Text="ل" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="334171" Cursor="47" Text="ا" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="334343" Cursor="47" Text=" " X="1296" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="334546" Cursor="45" Text="ت" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="335015" Cursor="44" Text="ا" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="336468" Cursor="45" X="1281" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="337187" Cursor="45" X="350" Y="391" Width="30" Height="70" Type="insert" Value="ا" />
+    <Key Time="337343" Cursor="46" X="322" Y="391" Width="47" Height="70" Type="insert" Value="ل" />
+    <Key Time="337562" Cursor="47" X="311" Y="391" Width="47" Height="70" Type="insert" Value="ل" />
+    <Key Time="338218" Cursor="48" X="296" Y="391" Width="51" Height="70" Type="insert" Value="ق" />
+    <Key Time="338484" Cursor="49" X="301" Y="391" Width="30" Height="70" Type="insert" Value="ا" />
+    <Key Time="338937" Cursor="50" X="266" Y="391" Width="54" Height="70" Type="insert" Value="ئ" />
+    <Key Time="339140" Cursor="51" X="275" Y="391" Width="30" Height="70" Type="insert" Value="ا" />
+    <Key Time="339421" Cursor="52" X="236" Y="391" Width="59" Height="70" Type="insert" Value="ت" />
+    <Key Time="339578" Cursor="54" X="1281" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="339984" Cursor="54" X="191" Y="391" Width="49" Height="70" Type="insert" Value="ع" />
+    <Key Time="340265" Cursor="55" X="163" Y="391" Width="48" Height="70" Type="insert" Value="ن" />
+    <Key Time="340515" Cursor="57" X="1281" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="340687" Cursor="57" X="109" Y="391" Width="59" Height="70" Type="insert" Value="ب" />
+    <Key Time="340906" Cursor="58" X="110" Y="391" Width="49" Height="70" Type="insert" Value="ع" />
+    <Key Time="341718" Cursor="59" X="94" Y="391" Width="37" Height="70" Type="insert" Value="د" />
+    <Key Time="343890" Cursor="59" Text="د" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="344171" Cursor="58" Text="ع" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="344343" Cursor="57" Text="ب" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="344500" Cursor="57" Text=" " X="1296" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="344640" Cursor="55" Text="ن" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="345046" Cursor="54" Text="ع" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="345531" Cursor="54" X="210" Y="391" Width="30" Height="70" Type="insert" Value="ا" />
+    <Key Time="345734" Cursor="55" X="182" Y="391" Width="47" Height="70" Type="insert" Value="ل" />
+    <Key Time="345875" Cursor="56" X="171" Y="391" Width="47" Height="70" Type="insert" Value="ل" />
+    <Key Time="346109" Cursor="57" X="149" Y="391" Width="59" Height="70" Type="insert" Value="ت" />
+    <Key Time="346234" Cursor="58" X="143" Y="391" Width="54" Height="70" Type="insert" Value="ي" />
+    <Key Time="346375" Cursor="60" X="1281" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="346562" Cursor="60" X="89" Y="391" Width="59" Height="70" Type="insert" Value="ت" />
+    <Key Time="347796" Cursor="61" X="102" Y="391" Width="30" Height="70" Type="insert" Value="ا" />
+    <Key Time="348343" Cursor="61" Text="ا" X="1281" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="349015" Cursor="61" X="83" Y="391" Width="51" Height="70" Type="insert" Value="ق" />
+    <Key Time="349375" Cursor="62" X="88" Y="391" Width="30" Height="70" Type="insert" Value="ا" />
+    <Key Time="349937" Cursor="63" X="69" Y="391" Width="37" Height="70" Type="insert" Value="م" />
+    <Key Time="350187" Cursor="65" X="1281" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="351046" Cursor="65" X="24" Y="391" Width="49" Height="70" Type="insert" Value="ع" />
+    <Key Time="351296" Cursor="66" X="65" Y="391" Width="48" Height="70" Type="insert" Value="ن" />
+    <Key Time="351437" Cursor="68" X="1350" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="351625" Cursor="68" X="11" Y="391" Width="59" Height="70" Type="insert" Value="ب" />
+    <Key Time="351796" Cursor="69" X="12" Y="391" Width="49" Height="70" Type="insert" Value="ع" />
+    <Key Time="354031" Cursor="69" Text="ع" X="1350" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="355578" Cursor="69" X="8" Y="391" Width="48" Height="70" Type="insert" Value="ن" />
+    <Key Time="355687" Cursor="71" X="1446" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="355984" Cursor="71" X="50" Y="391" Width="59" Height="70" Type="insert" Value="ب" />
+    <Key Time="356296" Cursor="72" X="51" Y="391" Width="49" Height="70" Type="insert" Value="ع" />
+    <Key Time="357125" Cursor="73" X="35" Y="391" Width="37" Height="70" Type="insert" Value="د" />
+    <Key Time="359140" Cursor="74" X="20" Y="391" Width="34" Height="68" Type="insert" Value="." />
+    <Mouse Time="366750" Cursor="93" Value="Down" />
+    <Mouse Time="366843" Cursor="93" Value="Up" />
+    <Mouse Time="370500" Cursor="0" Text="دولارا لمشاكل خصوصية المستخدم و شائعة اختراق اللقائات اللتي تقام عن بن بعد. 85 ستدفع منصة زوم " Block="94" Value="Down" />
+    <Mouse Time="370593" Cursor="0" Text="دولارا لمشاكل خصوصية المستخدم و شائعة اختراق اللقائات اللتي تقام عن بن بعد. 85 ستدفع منصة زوم " Block="94" Value="Up" />
+    <Mouse Time="371187" Cursor="0" Text="دولارا لمشاكل خصوصية المستخدم و شائعة اختراق اللقائات اللتي تقام عن بن بعد. 85 ستدفع منصة زوم " Block="94" Value="Down" />
+    <Mouse Time="371265" Cursor="74" Value="Up" />
+    <Mouse Time="374296" Cursor="94" Text="مبلغا ثمنه  " Block="12" Value="Down" />
+    <Mouse Time="374734" Cursor="94" Text="مبلغا ثمنه  " Block="12" Value="Up" />
+    <Mouse Time="375718" Cursor="94" Text="مبلغا ثمنه  " Block="12" Value="Down" />
+    <Mouse Time="377546" Cursor="93" Value="Down" />
+    <Mouse Time="377640" Cursor="93" Value="Up" />
+    <Mouse Time="378515" Cursor="79" Value="Down" />
+    <Mouse Time="378609" Cursor="79" Value="Up" />
+    <Mouse Time="382640" Cursor="0" Text="دولارا لمشاكل خصوصية المستخدم و شائعة اختراق اللقائات اللتي تقام عن بن بعد. 85 ستدفع منصة زوم " Block="94" Value="Down" />
+    <Mouse Time="382718" Cursor="0" Text="دولارا لمشاكل خصوصية المستخدم و شائعة اختراق اللقائات اللتي تقام عن بن بعد. 85 ستدفع منصة زوم " Block="94" Value="Up" />
+    <Mouse Time="383093" Cursor="0" Text="دولارا لمشاكل خصوصية المستخدم و شائعة اختراق اللقائات اللتي تقام عن بن بعد. 85 ستدفع منصة زوم مبلغا ثمنه  " Block="106" Value="Down" />
+    <Mouse Time="383171" Cursor="0" Text="دولارا لمشاكل خصوصية المستخدم و شائعة اختراق اللقائات اللتي تقام عن بن بعد. 85 ستدفع منصة زوم مبلغا ثمنه  " Block="106" Value="Up" />
+    <Mouse Time="383640" Cursor="0" Text="دولارا لمشاكل خصوصية المستخدم و شائعة اختراق اللقائات اللتي تقام عن بن بعد. 85 ستدفع منصة زوم مبلغا ثمنه  " Block="106" Value="Down" />
+    <Mouse Time="383703" Cursor="61" Value="Up" />
+    <Mouse Time="385312" Cursor="76" Value="Down" />
+    <Mouse Time="385406" Cursor="76" Value="Up" />
+    <Key Time="386515" Cursor="75" Text=" " X="1461" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="387031" Cursor="74" Text="." X="1461" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="389187" Cursor="73" Text="د" X="1461" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="392187" Cursor="73" X="50" Y="391" Width="37" Height="70" Type="insert" Value="د" />
+    <Mouse Time="403781" Cursor="53" Value="Down" />
+    <Mouse Time="405312" Cursor="32" Text="شائعة اختراق اللقائات " Block="22" Value="Up" />
+    <Mouse Time="416031" Cursor="32" Text="شائعة اختراق اللقائات " Block="22" Value="Down" />
+    <Mouse Time="416125" Cursor="37" Value="Up" />
+    <Mouse Time="422609" Cursor="74" Value="Down" />
+    <Mouse Time="422703" Cursor="74" Value="Up" />
+    <Mouse Time="423171" Cursor="75" Value="Down" />
+    <Mouse Time="423265" Cursor="75" Value="Up" />
+    <Mouse Time="423718" Cursor="75" Value="Down" />
+    <Mouse Time="423828" Cursor="75" Value="Up" />
+    <Mouse Time="424062" Cursor="71" Text="بعد85 " Block="6" Value="Down" />
+    <Mouse Time="424125" Cursor="71" Text="بعد85 " Block="6" Value="Up" />
+    <Key Time="425906" Cursor="71" Text="بعد85 " X="471" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="437718" Cursor="70" Text=" " X="502" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="438218" Cursor="69" Text="ن" X="515" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="439406" Cursor="69" X="522" Y="391" Width="49" Height="70" Type="insert" Value="ع" />
+    <Key Time="441046" Cursor="70" X="503" Y="391" Width="37" Height="70" Type="insert" Value="د" />
+    <Key Time="441296" Cursor="71" X="488" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Mouse Time="444625" Cursor="72" Value="Down" />
+    <Mouse Time="445562" Cursor="72" Text="ستدفع منصة زوم مبلغا ثمنه  " Block="27" Value="Up" />
+    <Key Time="446515" Cursor="72" Text="ستدفع منصة زوم مبلغا ثمنه  " Block="27" Type="edit" Value="[Ctrl+C]" />
+    <Mouse Time="447984" Cursor="0" Value="Down" />
+    <Mouse Time="448062" Cursor="0" Value="Up" />
+    <Key Time="449218" Cursor="0" X="43" Y="391" Width="519" Height="70" Type="insert" Value="ستدفع منصة زوم مبلغا ثمنه  " />
+    <Key Time="451671" Cursor="26" Text=" " X="1339" Y="391" Type="delete" Value="[Back]" />
+    <Key Time="452968" Cursor="26" X="1329" Y="391" Width="50" Height="70" Type="insert" Value="خ" />
+    <Key Time="453234" Cursor="27" X="1307" Y="391" Width="37" Height="70" Type="insert" Value="م" />
+    <Key Time="453640" Cursor="28" X="1278" Y="391" Width="65" Height="70" Type="insert" Value="س" />
+    <Key Time="454750" Cursor="29" X="1257" Y="391" Width="34" Height="70" Type="insert" Value="ة" />
+    <Key Time="455000" Cursor="30" X="1242" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="455421" Cursor="31" X="1218" Y="391" Width="43" Height="70" Type="insert" Value="و" />
+    <Key Time="456375" Cursor="32" X="1205" Y="391" Width="59" Height="70" Type="insert" Value="ث" />
+    <Key Time="456703" Cursor="33" X="1183" Y="391" Width="37" Height="70" Type="insert" Value="م" />
+    <Key Time="457000" Cursor="34" X="1170" Y="391" Width="48" Height="70" Type="insert" Value="ن" />
+    <Key Time="457218" Cursor="35" X="1146" Y="391" Width="43" Height="70" Type="insert" Value="و" />
+    <Key Time="457421" Cursor="36" X="1133" Y="391" Width="48" Height="70" Type="insert" Value="ن" />
+    <Key Time="457921" Cursor="37" X="1102" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Mouse Time="464500" Cursor="92" Text="اللتي تقام عن بعد ستدفع منصة زوم مبلغا ثمنه  " Block="45" Value="Down" />
+    <Mouse Time="464953" Cursor="92" Text="اللتي تقام عن بعد ستدفع منصة زوم مبلغا ثمنه  " Block="45" Value="Up" />
+    <Mouse Time="465140" Cursor="92" Text="اللتي تقام عن بعد ستدفع منصة زوم مبلغا ثمنه  " Block="45" Value="Down" />
+    <Mouse Time="465203" Cursor="116" Value="Up" />
+    <Mouse Time="466015" Cursor="110" Value="Down" />
+    <Mouse Time="467437" Cursor="110" Text="ستدفع منصة زوم مبلغا ثمنه  " Block="27" Value="Up" />
+    <Key Time="468062" Cursor="110" Text="ستدفع منصة زوم مبلغا ثمنه  " X="1857" Y="478" Type="delete" Value="[Back]" />
+    <Mouse Time="470250" Cursor="109" Value="Down" />
+    <Mouse Time="470359" Cursor="109" Value="Up" />
+    <Key Time="471375" Cursor="109" X="1548" Y="478" Width="34" Height="68" Type="insert" Value="." />
+    <Mouse Time="483781" Cursor="45" Value="Down" />
+    <Mouse Time="483859" Cursor="45" Value="Up" />
+    <Key Time="485281" Cursor="46" X="954" Y="391" Width="47" Height="70" Type="insert" Value="ل" />
+    <Key Time="485640" Cursor="46" X="936" Y="391" Width="50" Height="70" Type="insert" Value="ح" />
+    <Key Time="485812" Cursor="48" X="914" Y="391" Width="47" Height="70" Type="insert" Value="ل" />
+    <Key Time="486109" Cursor="48" X="893" Y="391" Width="18" Height="68" Type="insert" Value=" " />
+    <Key Time="487625" Cursor="49" Type="navi" Value="[Left]" />
+    <Key Time="488000" Cursor="48" Type="navi" Value="[Right]" />
+    <Key Time="488171" Cursor="49" Type="navi" Value="[Right]" />
+    <Key Time="488718" Cursor="49" Text="ل" X="871" Y="391" Type="delete" Value="[Back]" />
+    <System Time="507437" Value="STOP" />
+  </Events>
+  <FinalTextUTF8>ستدفع منصة زوم مبلغا ثمنه خمسة وثمنون دولارا لحل مشاكل خصوصية المستخدم و شائعة اختراق اللقائات اللتي تقام عن بعد. </FinalTextUTF8>
+  <TargetTextChar />
+  <SourceTextChar>
+    <CharPos Cursor="0" Value="Z" X="3" Y="27" Width="61" Height="78" />
+    <CharPos Cursor="1" Value="o" X="41" Y="27" Width="54" Height="78" />
+    <CharPos Cursor="2" Value="o" X="73" Y="27" Width="54" Height="78" />
+    <CharPos Cursor="3" Value="m" X="105" Y="27" Width="72" Height="78" />
+    <CharPos Cursor="4" Value=" " X="154" Y="27" Width="21" Height="78" />
+    <CharPos Cursor="5" Value="w" X="170" Y="27" Width="68" Height="78" />
+    <CharPos Cursor="6" Value="i" X="216" Y="27" Width="39" Height="78" />
+    <CharPos Cursor="7" Value="l" X="234" Y="27" Width="39" Height="78" />
+    <CharPos Cursor="8" Value="l" X="251" Y="27" Width="39" Height="78" />
+    <CharPos Cursor="9" Value=" " X="268" Y="27" Width="21" Height="78" />
+    <CharPos Cursor="10" Value="p" X="284" Y="27" Width="54" Height="78" />
+    <CharPos Cursor="11" Value="a" X="316" Y="27" Width="50" Height="78" />
+    <CharPos Cursor="12" Value="y" X="344" Y="27" Width="54" Height="78" />
+    <CharPos Cursor="13" Value=" " X="374" Y="27" Width="21" Height="78" />
+    <CharPos Cursor="14" Value="$" X="390" Y="27" Width="54" Height="78" />
+    <CharPos Cursor="15" Value="8" X="422" Y="27" Width="54" Height="78" />
+    <CharPos Cursor="16" Value="5" X="454" Y="27" Width="54" Height="78" />
+    <CharPos Cursor="17" Value=" " X="486" Y="27" Width="21" Height="78" />
+    <CharPos Cursor="18" Value="m" X="502" Y="27" Width="72" Height="78" />
+    <CharPos Cursor="19" Value="i" X="551" Y="27" Width="39" Height="78" />
+    <CharPos Cursor="20" Value="l" X="569" Y="27" Width="39" Height="78" />
+    <CharPos Cursor="21" Value="l" X="586" Y="27" Width="39" Height="78" />
+    <CharPos Cursor="22" Value="i" X="603" Y="27" Width="39" Height="78" />
+    <CharPos Cursor="23" Value="o" X="621" Y="27" Width="54" Height="78" />
+    <CharPos Cursor="24" Value="n" X="653" Y="27" Width="54" Height="78" />
+    <CharPos Cursor="25" Value=" " X="685" Y="27" Width="21" Height="78" />
+    <CharPos Cursor="26" Value="d" X="701" Y="27" Width="54" Height="78" />
+    <CharPos Cursor="27" Value="u" X="733" Y="27" Width="54" Height="78" />
+    <CharPos Cursor="28" Value="e" X="765" Y="27" Width="50" Height="78" />
+    <CharPos Cursor="29" Value=" " X="793" Y="27" Width="21" Height="78" />
+    <CharPos Cursor="30" Value="t" X="809" Y="27" Width="39" Height="78" />
+    <CharPos Cursor="31" Value="o" X="827" Y="27" Width="54" Height="78" />
+    <CharPos Cursor="32" Value=" " X="859" Y="27" Width="21" Height="78" />
+    <CharPos Cursor="33" Value="u" X="875" Y="27" Width="54" Height="78" />
+    <CharPos Cursor="34" Value="s" X="907" Y="27" Width="46" Height="78" />
+    <CharPos Cursor="35" Value="e" X="932" Y="27" Width="50" Height="78" />
+    <CharPos Cursor="36" Value="r" X="960" Y="27" Width="43" Height="78" />
+    <CharPos Cursor="37" Value=" " X="981" Y="27" Width="21" Height="78" />
+    <CharPos Cursor="38" Value="p" X="997" Y="27" Width="54" Height="78" />
+    <CharPos Cursor="39" Value="r" X="1029" Y="27" Width="43" Height="78" />
+    <CharPos Cursor="40" Value="i" X="1050" Y="27" Width="39" Height="78" />
+    <CharPos Cursor="41" Value="v" X="1068" Y="27" Width="54" Height="78" />
+    <CharPos Cursor="42" Value="a" X="1099" Y="27" Width="50" Height="78" />
+    <CharPos Cursor="43" Value="c" X="1127" Y="27" Width="50" Height="78" />
+    <CharPos Cursor="44" Value="y" X="1155" Y="27" Width="54" Height="78" />
+    <CharPos Cursor="45" Value=" " X="1185" Y="27" Width="21" Height="78" />
+    <CharPos Cursor="46" Value="i" X="1201" Y="27" Width="39" Height="78" />
+    <CharPos Cursor="47" Value="s" X="1219" Y="27" Width="46" Height="78" />
+    <CharPos Cursor="48" Value="s" X="1244" Y="27" Width="46" Height="78" />
+    <CharPos Cursor="49" Value="u" X="1269" Y="27" Width="54" Height="78" />
+    <CharPos Cursor="50" Value="e" X="1301" Y="27" Width="50" Height="78" />
+    <CharPos Cursor="51" Value="s" X="1329" Y="27" Width="46" Height="78" />
+    <CharPos Cursor="52" Value=" " X="1354" Y="27" Width="21" Height="78" />
+    <CharPos Cursor="53" Value="a" X="1370" Y="27" Width="50" Height="78" />
+    <CharPos Cursor="54" Value="n" X="1398" Y="27" Width="54" Height="78" />
+    <CharPos Cursor="55" Value="d" X="1430" Y="27" Width="54" Height="78" />
+    <CharPos Cursor="56" Value=" " X="1462" Y="27" Width="21" Height="78" />
+    <CharPos Cursor="57" Value="&#xA;" X="1478" Y="27" Width="21" Height="81" />
+    <CharPos Cursor="58" Value="Z" X="3" Y="132" Width="61" Height="78" />
+    <CharPos Cursor="59" Value="o" X="41" Y="132" Width="54" Height="78" />
+    <CharPos Cursor="60" Value="o" X="73" Y="132" Width="54" Height="78" />
+    <CharPos Cursor="61" Value="m" X="105" Y="132" Width="72" Height="78" />
+    <CharPos Cursor="62" Value="b" X="154" Y="132" Width="54" Height="78" />
+    <CharPos Cursor="63" Value="o" X="186" Y="132" Width="54" Height="78" />
+    <CharPos Cursor="64" Value="m" X="218" Y="132" Width="72" Height="78" />
+    <CharPos Cursor="65" Value="b" X="267" Y="132" Width="54" Height="78" />
+    <CharPos Cursor="66" Value="i" X="299" Y="132" Width="39" Height="78" />
+    <CharPos Cursor="67" Value="n" X="317" Y="132" Width="54" Height="78" />
+    <CharPos Cursor="68" Value="g" X="349" Y="132" Width="54" Height="78" />
+    <CharPos Cursor="69" Value=" " X="381" Y="132" Width="21" Height="78" />
+    <CharPos Cursor="70" Value="t" X="397" Y="132" Width="39" Height="78" />
+    <CharPos Cursor="71" Value="r" X="415" Y="132" Width="43" Height="78" />
+    <CharPos Cursor="72" Value="e" X="436" Y="132" Width="50" Height="78" />
+    <CharPos Cursor="73" Value="n" X="464" Y="132" Width="54" Height="78" />
+    <CharPos Cursor="74" Value="d" X="496" Y="132" Width="54" Height="78" />
+    <CharPos Cursor="75" Value="s" X="528" Y="132" Width="46" Height="78" />
+    <CharPos Cursor="76" Value=" " X="553" Y="132" Width="21" Height="78" />
+    <CharPos Cursor="77" Value="o" X="569" Y="132" Width="54" Height="78" />
+    <CharPos Cursor="78" Value="n" X="601" Y="132" Width="54" Height="78" />
+    <CharPos Cursor="79" Value="l" X="633" Y="132" Width="39" Height="78" />
+    <CharPos Cursor="80" Value="i" X="650" Y="132" Width="39" Height="78" />
+    <CharPos Cursor="81" Value="n" X="668" Y="132" Width="54" Height="78" />
+    <CharPos Cursor="82" Value="e" X="700" Y="132" Width="50" Height="78" />
+    <CharPos Cursor="83" Value="." X="728" Y="132" Width="37" Height="78" />
+    <CharPos Cursor="84" Value="&#xA;" X="744" Y="132" Width="21" Height="81" />
+    <CharPos Cursor="85" Value="&#xA;" X="3" Y="237" Width="21" Height="81" />
+    <CharPos Cursor="86" Value="&#xA;" X="3" Y="342" Width="21" Height="81" />
+  </SourceTextChar>
+  <FinalTextChar>
+    <CharPos Cursor="0" Value="س" X="110" Y="391" Width="65" Height="70" />
+    <CharPos Cursor="1" Value="ت" X="1815" Y="391" Width="59" Height="70" />
+    <CharPos Cursor="2" Value="د" X="1796" Y="391" Width="37" Height="70" />
+    <CharPos Cursor="3" Value="ف" X="1781" Y="391" Width="63" Height="70" />
+    <CharPos Cursor="4" Value="ع" X="1756" Y="391" Width="49" Height="70" />
+    <CharPos Cursor="5" Value=" " X="1741" Y="391" Width="18" Height="68" />
+    <CharPos Cursor="6" Value="م" X="1719" Y="391" Width="37" Height="70" />
+    <CharPos Cursor="7" Value="ن" X="1706" Y="391" Width="48" Height="70" />
+    <CharPos Cursor="8" Value="ص" X="1659" Y="391" Width="81" Height="70" />
+    <CharPos Cursor="9" Value="ة" X="1638" Y="391" Width="34" Height="70" />
+    <CharPos Cursor="10" Value=" " X="1623" Y="391" Width="18" Height="68" />
+    <CharPos Cursor="11" Value="ز" X="1596" Y="391" Width="46" Height="70" />
+    <CharPos Cursor="12" Value="و" X="1572" Y="391" Width="43" Height="70" />
+    <CharPos Cursor="13" Value="م" X="1553" Y="391" Width="37" Height="70" />
+    <CharPos Cursor="14" Value=" " X="1538" Y="391" Width="18" Height="68" />
+    <CharPos Cursor="15" Value="م" X="1516" Y="391" Width="37" Height="70" />
+    <CharPos Cursor="16" Value="ب" X="1503" Y="391" Width="59" Height="70" />
+    <CharPos Cursor="17" Value="ل" X="1492" Y="391" Width="47" Height="70" />
+    <CharPos Cursor="18" Value="غ" X="1470" Y="391" Width="49" Height="70" />
+    <CharPos Cursor="19" Value="ا" X="1457" Y="391" Width="30" Height="70" />
+    <CharPos Cursor="20" Value=" " X="1442" Y="391" Width="18" Height="68" />
+    <CharPos Cursor="21" Value="ث" X="1429" Y="391" Width="59" Height="70" />
+    <CharPos Cursor="22" Value="م" X="1407" Y="391" Width="37" Height="70" />
+    <CharPos Cursor="23" Value="ن" X="1394" Y="391" Width="48" Height="70" />
+    <CharPos Cursor="24" Value="ه" X="1373" Y="391" Width="34" Height="70" />
+    <CharPos Cursor="25" Value=" " X="1358" Y="391" Width="18" Height="68" />
+    <CharPos Cursor="26" Value="خ" X="1329" Y="391" Width="50" Height="70" />
+    <CharPos Cursor="27" Value="م" X="1307" Y="391" Width="37" Height="70" />
+    <CharPos Cursor="28" Value="س" X="1278" Y="391" Width="65" Height="70" />
+    <CharPos Cursor="29" Value="ة" X="1257" Y="391" Width="34" Height="70" />
+    <CharPos Cursor="30" Value=" " X="1242" Y="391" Width="18" Height="68" />
+    <CharPos Cursor="31" Value="و" X="1218" Y="391" Width="43" Height="70" />
+    <CharPos Cursor="32" Value="ث" X="1205" Y="391" Width="59" Height="70" />
+    <CharPos Cursor="33" Value="م" X="1183" Y="391" Width="37" Height="70" />
+    <CharPos Cursor="34" Value="ن" X="1170" Y="391" Width="48" Height="70" />
+    <CharPos Cursor="35" Value="و" X="1146" Y="391" Width="43" Height="70" />
+    <CharPos Cursor="36" Value="ن" X="1117" Y="391" Width="48" Height="70" />
+    <CharPos Cursor="37" Value=" " X="1102" Y="391" Width="18" Height="68" />
+    <CharPos Cursor="38" Value="د" X="1083" Y="391" Width="37" Height="70" />
+    <CharPos Cursor="39" Value="و" X="1059" Y="391" Width="43" Height="70" />
+    <CharPos Cursor="40" Value="ل" X="1029" Y="391" Width="47" Height="70" />
+    <CharPos Cursor="41" Value="ا" X="1014" Y="391" Width="30" Height="70" />
+    <CharPos Cursor="42" Value="ر" X="1002" Y="391" Width="46" Height="70" />
+    <CharPos Cursor="43" Value="ا" X="991" Y="391" Width="30" Height="70" />
+    <CharPos Cursor="44" Value=" " X="976" Y="391" Width="18" Height="68" />
+    <CharPos Cursor="45" Value="ل" X="965" Y="391" Width="47" Height="70" />
+    <CharPos Cursor="46" Value="ح" X="936" Y="391" Width="50" Height="70" />
+    <CharPos Cursor="47" Value="ل" X="908" Y="391" Width="47" Height="70" />
+    <CharPos Cursor="48" Value=" " X="893" Y="391" Width="18" Height="68" />
+    <CharPos Cursor="49" Value="م" X="871" Y="391" Width="37" Height="70" />
+    <CharPos Cursor="50" Value="ش" X="842" Y="391" Width="65" Height="70" />
+    <CharPos Cursor="51" Value="ا" X="829" Y="391" Width="30" Height="70" />
+    <CharPos Cursor="52" Value="ك" X="807" Y="391" Width="52" Height="70" />
+    <CharPos Cursor="53" Value="ل" X="779" Y="391" Width="47" Height="70" />
+    <CharPos Cursor="54" Value=" " X="764" Y="391" Width="18" Height="68" />
+    <CharPos Cursor="55" Value="خ" X="735" Y="391" Width="50" Height="70" />
+    <CharPos Cursor="56" Value="ص" X="688" Y="391" Width="81" Height="70" />
+    <CharPos Cursor="57" Value="و" X="664" Y="391" Width="43" Height="70" />
+    <CharPos Cursor="58" Value="ص" X="617" Y="391" Width="81" Height="70" />
+    <CharPos Cursor="59" Value="ي" X="604" Y="391" Width="54" Height="70" />
+    <CharPos Cursor="60" Value="ة" X="583" Y="391" Width="34" Height="70" />
+    <CharPos Cursor="61" Value=" " X="568" Y="391" Width="18" Height="68" />
+    <CharPos Cursor="62" Value="ا" X="557" Y="391" Width="30" Height="70" />
+    <CharPos Cursor="63" Value="ل" X="546" Y="391" Width="47" Height="70" />
+    <CharPos Cursor="64" Value="م" X="524" Y="391" Width="37" Height="70" />
+    <CharPos Cursor="65" Value="س" X="495" Y="391" Width="65" Height="70" />
+    <CharPos Cursor="66" Value="ت" X="482" Y="391" Width="59" Height="70" />
+    <CharPos Cursor="67" Value="خ" X="453" Y="391" Width="50" Height="70" />
+    <CharPos Cursor="68" Value="د" X="434" Y="391" Width="37" Height="70" />
+    <CharPos Cursor="69" Value="م" X="415" Y="391" Width="37" Height="70" />
+    <CharPos Cursor="70" Value=" " X="400" Y="391" Width="18" Height="68" />
+    <CharPos Cursor="71" Value="و" X="376" Y="391" Width="43" Height="70" />
+    <CharPos Cursor="72" Value=" " X="361" Y="391" Width="18" Height="68" />
+    <CharPos Cursor="73" Value="ش" X="332" Y="391" Width="65" Height="70" />
+    <CharPos Cursor="74" Value="ا" X="319" Y="391" Width="30" Height="70" />
+    <CharPos Cursor="75" Value="ئ" X="306" Y="391" Width="54" Height="70" />
+    <CharPos Cursor="76" Value="ع" X="284" Y="391" Width="49" Height="70" />
+    <CharPos Cursor="77" Value="ة" X="263" Y="391" Width="34" Height="70" />
+    <CharPos Cursor="78" Value=" " X="248" Y="391" Width="18" Height="68" />
+    <CharPos Cursor="79" Value="ا" X="237" Y="391" Width="30" Height="70" />
+    <CharPos Cursor="80" Value="خ" X="208" Y="391" Width="50" Height="70" />
+    <CharPos Cursor="81" Value="ت" X="195" Y="391" Width="59" Height="70" />
+    <CharPos Cursor="82" Value="ر" X="168" Y="391" Width="46" Height="70" />
+    <CharPos Cursor="83" Value="ا" X="157" Y="391" Width="30" Height="70" />
+    <CharPos Cursor="84" Value="ق" X="125" Y="391" Width="51" Height="70" />
+    <CharPos Cursor="85" Value=" " X="110" Y="391" Width="18" Height="68" />
+    <CharPos Cursor="86" Value="ا" X="1408" Y="478" Width="30" Height="70" />
+    <CharPos Cursor="87" Value="ل" X="1835" Y="478" Width="47" Height="70" />
+    <CharPos Cursor="88" Value="ل" X="1824" Y="478" Width="47" Height="70" />
+    <CharPos Cursor="89" Value="ق" X="1810" Y="478" Width="51" Height="70" />
+    <CharPos Cursor="90" Value="ا" X="1797" Y="478" Width="30" Height="70" />
+    <CharPos Cursor="91" Value="ئ" X="1784" Y="478" Width="54" Height="70" />
+    <CharPos Cursor="92" Value="ا" X="1771" Y="478" Width="30" Height="70" />
+    <CharPos Cursor="93" Value="ت" X="1732" Y="478" Width="59" Height="70" />
+    <CharPos Cursor="94" Value=" " X="1717" Y="478" Width="18" Height="68" />
+    <CharPos Cursor="95" Value="ا" X="1706" Y="478" Width="30" Height="70" />
+    <CharPos Cursor="96" Value="ل" X="1695" Y="478" Width="47" Height="70" />
+    <CharPos Cursor="97" Value="ل" X="1684" Y="478" Width="47" Height="70" />
+    <CharPos Cursor="98" Value="ت" X="1671" Y="478" Width="59" Height="70" />
+    <CharPos Cursor="99" Value="ي" X="1639" Y="478" Width="54" Height="70" />
+    <CharPos Cursor="100" Value=" " X="1624" Y="478" Width="18" Height="68" />
+    <CharPos Cursor="101" Value="ت" X="1611" Y="478" Width="59" Height="70" />
+    <CharPos Cursor="102" Value="ق" X="1597" Y="478" Width="51" Height="70" />
+    <CharPos Cursor="103" Value="ا" X="1584" Y="478" Width="30" Height="70" />
+    <CharPos Cursor="104" Value="م" X="1565" Y="478" Width="37" Height="70" />
+    <CharPos Cursor="105" Value=" " X="1550" Y="478" Width="18" Height="68" />
+    <CharPos Cursor="106" Value="ع" X="1521" Y="478" Width="49" Height="70" />
+    <CharPos Cursor="107" Value="ن" X="1492" Y="478" Width="48" Height="70" />
+    <CharPos Cursor="108" Value=" " X="1477" Y="478" Width="18" Height="68" />
+    <CharPos Cursor="109" Value="ب" X="1464" Y="478" Width="59" Height="70" />
+    <CharPos Cursor="110" Value="ع" X="1442" Y="478" Width="49" Height="70" />
+    <CharPos Cursor="111" Value="د" X="1423" Y="478" Width="37" Height="70" />
+    <CharPos Cursor="112" Value="." X="1408" Y="478" Width="34" Height="68" />
+    <CharPos Cursor="113" Value=" " X="1857" Y="478" Width="18" Height="68" />
+  </FinalTextChar>
+</LogFile>
